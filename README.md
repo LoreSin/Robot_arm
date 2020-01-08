@@ -16,3 +16,5 @@
   
 - old 폴더 : 구현에 사용된 기본 코드조각들.
 - doc 폴더 : 동작 영상 및 발표용 ppt 자료
+- [구동영상](https://youtu.be/u1wvss1ebzs)
+- [연속동작](https://youtu.be/x72-0QAltwc)
